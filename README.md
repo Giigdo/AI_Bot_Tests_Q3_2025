@@ -53,7 +53,7 @@ With a 4% decline in Indigenous language speakers from 1991-2021 (Statistics Can
 ### Tool Performance Summary
 - **AnythingTranslate & Musely.ai:** Completely unreliable, different translations each query
 - **ChatGPT, Claude.ai and Perplexity:** Best overall, but demonstrated grammatical understanding but consistent word stem errors
-- **Ojibwechat:** Demonstrated some understanding but produced gramatical errors and defaults to translation
+- **Ojibwechat:** Demonstrated some understanding but produced grammatical errors and defaults to translation
 - **All systems:** Exhibited errors requiring fluent speaker verification
 
 ### Translation Error Example
