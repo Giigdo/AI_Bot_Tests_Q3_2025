@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: McConnell
+    given-names: Andrew
+  - family-names: Ly
+    given-names: Jasmine
+title: "Anishinaabemowin AI Translation Tool Evaluation Dataset"
+version: 1.0.0
+date-released: 2025-10-02
+url: "https://github.com/[your-username]/[repo-name]"
