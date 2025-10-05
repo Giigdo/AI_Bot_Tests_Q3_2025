@@ -18,4 +18,4 @@ Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
 McConnell, A., & Ly, J. (2025). Anishinaabemowin AI Translation Tool Evaluation Dataset [Data set]. GitHub. https://github.com/[your-username]/[repo-name]
 
 For the associated research, please cite:
-McConnell, A., & Ly, J. (2025). "Beyond Universal AI: Developing Culturally-Specific Intelligence Tests for Indigenous Language Technologies." Presented at Connected Minds 2025, Toronto, ON.
+McConnell, A., & Ly, J. (2025). "Anishinaabemowin Aabajichigan Gaawiin Nibwaakaasii: Efficacy of AI for Ojibwe Language Education" Presented at Connected Minds 2025, Toronto, ON.
