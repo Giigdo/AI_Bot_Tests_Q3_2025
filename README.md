@@ -11,7 +11,7 @@ McConnell, A., & Ly, J. (2025). Anishinaabemowin AI Translation Tool Evaluation 
 
 ### Associated Publications
 This data supports the following research:
-- McConnell, A., & Ly, J. (2025). "Beyond Universal AI: Developing Culturally-Specific Intelligence Tests for Indigenous Language Technologies." Connected Minds 2025, Toronto, ON.
+- McConnell, A., & Ly, J. (2025). "Anishinaabemowin Aabajichigan Gaawiin Nibwaakaasii: Efficacy of AI for Ojibwe Language Education" Presented at Connected Minds 2025, Toronto, ON.
 
 # Anishinaabemowin AI Translation Tool Evaluation Dataset
 
